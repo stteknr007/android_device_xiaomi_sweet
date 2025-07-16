@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021-2024 The LineageOS Project
+# Copyright (C) 2021-2025 DerpFest
 #
 # SPDX-License-Identifier: Apache-2.0
 #
